@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# C extensions
+*.c
+*.cpp
+*.h
+*.o
+*.obj
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.eggs/
+*.dist-info/
+
+# PyInstaller
+#  Typically these directories are created by PyInstaller to store the compiled binary
+#  and are not intended to be tracked in version control.
+#  (Feel free to modify or remove this section if you're using PyInstaller.)
+dist/
+build/
+*.spec
+
+# Test and coverage reports
+.coverage
+*.cover
+*.tox
+*.nox
+*.hypothesis
+*.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.nib
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
